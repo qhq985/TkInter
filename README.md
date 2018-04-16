@@ -51,6 +51,7 @@ Here are two website for more information:
   
  ### Practice 4
   1.Menubar 
+  
   2.Frame 
   3.messagebox 
   4.pack grid place
@@ -58,7 +59,7 @@ Here are two website for more information:
  
  
  ### Practice 5
-  1. A small login and sign in system...
+  1.A small login and sign in system...
  
  
   ## Conclusion
