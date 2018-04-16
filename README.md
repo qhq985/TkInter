@@ -35,13 +35,17 @@ Here are two website for more information:
  
  ### Practice 1
   1.Label & Button 
+  
   2.Entry & Text
+  
   3.Listbox 
  
  
  ### Practice 2
-  1.Radiobutton 
+  1.Radiobutton
+  
   2.Scale 
+  
   3.Checkbutton 
  
  
@@ -53,8 +57,11 @@ Here are two website for more information:
   1.Menubar 
   
   2.Frame 
+  
   3.messagebox 
+  
   4.pack grid place
+  
   5.And I use this practice to make a small calculator...
  
  
