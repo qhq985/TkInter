@@ -14,9 +14,8 @@ Serval practice for GUI in python...Welcome TkInter!!!
 ```
 2.Or we just download from website
 
-```
-  https://www.python.org/download/mac/tcltk/
-```
+[TkInter Download](https://www.python.org/download/mac/tcltk/) 
+
 
 ### Introduction
 Here are two website for more information:
