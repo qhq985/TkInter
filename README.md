@@ -1,5 +1,5 @@
 # TkInter
-Practice for TkInter
+Python interface to Tcl/Tk
 
 ## Getting Started
 Em.....
